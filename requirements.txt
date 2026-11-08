@@ -1,4 +1,0 @@
-pyTelegramBotAPI==4.28.0
-pymongo[srv]==4.8.0
-dnspython==2.6.1
-requests==2.32.3

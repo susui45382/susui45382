@@ -10,7 +10,7 @@ from pymongo import MongoClient
 # CONFIGURATION
 # =========================================================
 
-BOT_TOKEN = "8631269601:AAEd2ZNNPZydSwCF5xqnRuJ_m3YLG4JajDg"
+BOT_TOKEN = "8631269601:AAEoNW4k1Xqmzvz5Ww4dIUtMrGTv3IEQYAc"
 
 # MONGODB CONNECTION STRING (Successfully Configured)
 MONGO_URI = "mongodb+srv://botuser:Tsv3rQQQ-g4jAY3@cluster0.fe1k9gv.mongodb.net/?appName=Cluster0"
